@@ -1,0 +1,9 @@
+body{
+  background-image: linear-gradient(to left, transparent 0%, rgb(0, 0, 0)80%),url('https://i.pinimg.com/originals/b9/f7/da/b9f7da5dfd9ca6ecab90ec39c2e33d42.jpg')
+}
+#toolbar{
+    background: rgba(8, 7, 7, 0.781);
+    }
+    #nome{
+        text-align: center;
+    }
